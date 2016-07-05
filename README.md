@@ -15,13 +15,13 @@ This will be really helpful in the OO Student Scraper lab where you will want to
 
 ### Create a background task in bash
 
-If you would like a start a new process (like a local server) in the background, all you need to do as add an ` &` to the end of the command like this: `jekyll serve &`. This process will now run in the background in this terminal window.
+If you would like to start a new process (like a local server) in the background, all you need to do as add an ` &` to the end of the command like this: `jekyll serve &`. This process will now run in the background in this terminal window.
 
 >Note: You may have to press `enter` or `return` to get your prompt back.
 
 ### Show currently running jobs
 
-Great, now we've got some tasks quietly running in the background, so how to we keep track of them? Simple, use the command `jobs` in your terminal to get a list of all jobs running in this window. Each job will have a job number in front of it that will look like this: `[1]`. Now we can easily keep track of all processes that are currently running.
+Great, now we've got some tasks quietly running in the background, so how do we keep track of them? Simple, use the command `jobs` in your terminal to get a list of all jobs running in this window. Each job will have a job number in front of it that will look like this: `[1]`. Now we can easily keep track of all processes that are currently running.
 
 ### Switching between jobs
 
